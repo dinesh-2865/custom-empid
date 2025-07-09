@@ -47,6 +47,7 @@ uvicorn main:app --reload
 
 4. http://127.0.0.1:8000/docs
 
+---
 
 Made by Dinesh Kumar ✨
 
